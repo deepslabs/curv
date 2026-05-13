@@ -25,7 +25,7 @@ hmac = "0.7.1"
 lazy_static = "1.4.0"
 num-traits = "0.2"
 num-integer = "0.1"
-pairing-plus = { git = "https://github.com/algorand/pairing-plus.git", version = "0.20.1" }
+pairing-plus = { git = "https://github.com/Abmatrix/pairing-plus.git", version = "0.20.1" }
 rand = "0.7.3"
 ring-algorithm = { version = "0.4.0", default-features = false }
 #rust-crypto = "^0.2"
